@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'Questa Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: url("./Questa_Sans_Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'Asimov Pro';
+  font-style: normal;
+  font-weight: 700;
+  src: url("./Asimov_Pro_Bold.otf") format("opentype");
+}
