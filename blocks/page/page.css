@@ -6,4 +6,5 @@
   max-height: 100vh;
   padding: 0 68px;
   margin: 0 auto;
+  border: 1px red solid;
 }

@@ -1,0 +1,29 @@
+.footer__copyright {
+  font-family: "Asimov Pro", sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 48px;
+  text-align: center;
+  margin: 0;
+}
+
+@media screen and (max-width: 1152px){
+  .footer__copyright {
+    font-size: 3.13vw;
+    line-height: 4.69vw;
+  }
+}
+
+@media screen and (max-width: 896px){
+  .footer__copyright {
+    font-size: 3.39vw;
+    line-height: 5.08vw;
+  }
+}
+
+@media screen and (max-width: 544px){
+  .footer__copyright {
+    font-size: 6.88vw;
+    line-height: 10.31vw;
+  }
+}
