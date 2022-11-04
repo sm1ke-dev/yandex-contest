@@ -1,0 +1,22 @@
+.lead__title {
+  max-width: 471px;
+  margin: 24px 0 0;
+  font-family: 'Asimov Pro', Arial, sans-serif;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 150%;
+}
+
+@media screen and (max-width: 1152px) {
+  .lead__title {
+    max-width: 400px;
+    font-size: 28px;
+  }
+}
+
+@media screen and (max-width: 896px) {
+  .lead__title {
+    max-width: 347px;
+    font-size: 26px;
+  }
+}

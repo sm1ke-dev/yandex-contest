@@ -1,0 +1,9 @@
+.lead__caption {
+  margin: 0;
+  color: #fed0ab;
+  font-family: 'Asimov Pro', Arial, sans-serif;
+  font-weight: 700;
+  font-size: 13px;
+  line-height: 15px;
+  text-transform: uppercase;
+}
