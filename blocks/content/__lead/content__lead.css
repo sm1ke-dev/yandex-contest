@@ -4,14 +4,12 @@
 
 @media screen and (max-width: 1152px) {
   .content__lead {
-    margin: 0 -20px;
-    padding-right: 42px;
+    padding-right: 22px;
   }
 }
 
-@media screen and (max-width: 896px) {
+@media screen and (max-width: 648px) {
   .content__lead {
-    margin: 0 -43px;
-    padding-right: 40px;
+    padding-right: 0;
   }
 }

@@ -16,3 +16,24 @@
     max-height: 255px;
   }
 }
+
+@media screen and (max-width: 648px) {
+  .lead__image {
+    width: 225px;
+    max-height: 225px;
+  }
+}
+
+@media screen and (max-width: 584px) {
+  .lead__image {
+    width: 300px;
+    max-height: 300px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .lead__image {
+    width: 270px;
+    max-height: 270px;
+  }
+}

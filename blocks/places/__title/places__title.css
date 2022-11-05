@@ -1,0 +1,21 @@
+.places__title {
+  margin: 0 0 auto;
+  font-family: 'Manrope', Arial, sans-serif;
+  font-weight: 800;
+  font-size: 32px;
+  line-height: 130%;
+  max-width: 378px;
+}
+
+@media screen and (max-width: 896px) {
+  .places__title {
+    font-size: 25px;
+    line-height: 120%;
+  }
+}
+
+@media screen and (max-width: 648px) {
+  .places__title {
+    font-size: 23px;
+  }
+}

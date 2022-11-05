@@ -13,3 +13,9 @@
     margin-top: 56px;
   }
 }
+
+@media screen and (max-width: 584px) {
+  .page__content {
+    margin-top: 43px;
+  }
+}

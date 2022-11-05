@@ -11,3 +11,10 @@
   font-weight: 700;
   src: url("./Asimov_Pro_Bold.otf") format("opentype");
 }
+
+@font-face {
+  font-family: 'Manrope';
+  font-style: normal;
+  font-weight: 800;
+  src: url("./Manrope-ExtraBold.ttf") format("truetype");
+}

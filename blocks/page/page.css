@@ -4,6 +4,19 @@
   box-sizing: border-box;
   max-width: 1280px;
   max-height: 100vh;
+  min-width: 320px;
   padding: 0 68px;
   margin: 0 auto;
+}
+
+@media screen and (max-width: 1152px) {
+  .page {
+    padding: 0 48px;
+  }
+}
+
+@media screen and (max-width: 896px) {
+  .page {
+    padding: 0 25px;
+  }
 }
