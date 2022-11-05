@@ -1,0 +1,30 @@
+.footer__year {
+  font-family: "Questa Sans", sans-serif;
+  font-size: 36px;
+  font-weight: 400;
+  line-height: 54px;
+  text-align: center;
+  margin: 22px 0 0;
+}
+
+@media screen and (max-width: 1152px){
+  .footer__year {
+    font-size: 3.52vw;
+    line-height: 5.27vw;
+  }
+}
+
+@media screen and (max-width: 896px){
+  .footer__year {
+    font-size: 3.39vw;
+    line-height: 5.08vw;
+  }
+}
+
+@media screen and (max-width: 544px){
+  .footer__year {
+    font-size: 6.11vw;
+    line-height: 9.17vw;
+    margin-top: 2.22vw;
+  }
+}
