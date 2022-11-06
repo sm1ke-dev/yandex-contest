@@ -6,8 +6,14 @@
   gap: 35px;
 }
 
-@media screen and (max-width: 616px) {
+@media screen and (max-width: 584px) {
   .header__links {
     gap: 20px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .header__links {
+    display: none;
   }
 }

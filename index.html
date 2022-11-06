@@ -10,13 +10,21 @@
 <body class="page">
     <header class="header page__header">
       <nav class="header__nav">
-        <ul class="header__links">
-          <li class="header__list"><a href="#" class="header__link">Мечты</a></li>
-          <li class="header__list"><a href="#" class="header__link">Ожидания</a></li>
-          <li class="header__list"><a href="#" class="header__link">Реальность</a></li>
-          <li class="header__list"><a href="#" class="header__link">Пожаловаться</a></li>
+        <div class="hamb header__hamb">
+          <div class="hamb__field" id="hamb">
+            <span class="hamb__bar"></span>
+            <span class="hamb__bar"></span>
+            <span class="hamb__bar"></span>
+          </div>
+        </div>
+        <ul class="header__links" id="links">
+          <li><a href="#" class="header__link">Мечты</a></li>
+          <li><a href="#" class="header__link">Ожидания</a></li>
+          <li><a href="#" class="header__link">Реальность</a></li>
         </ul>
+        <a href="#" class="header__link">Пожаловаться</a>
       </nav>
+      <div class="popup" id="popup"></div>
     </header>
 
     <main class="content page__content">
