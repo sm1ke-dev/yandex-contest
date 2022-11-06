@@ -1,17 +1,16 @@
 .page__footer {
-  margin: 85px auto 0;
-  border: 1px red solid;
+  margin: 85px -68px 0;
 }
 
 @media screen and (max-width: 1152px){
   .page__footer {
-    margin-top: 6.35vw;
+    margin: 6.35vw -48px 0;
   }
 }
 
 @media screen and (max-width: 896px){
   .page__footer {
-    margin-top: 7.16vw;
+    margin: 7.16vw -25px 0;
   }
 }
 
