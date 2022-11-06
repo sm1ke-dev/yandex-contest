@@ -1,0 +1,9 @@
+.hamb {
+  display: none;
+}
+
+@media screen and (max-width: 450px) {
+  .hamb {
+    display: block;
+  }
+}
