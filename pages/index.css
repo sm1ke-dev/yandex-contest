@@ -32,6 +32,17 @@
 @import url(../blocks/places/__paragraphs/places__paragraphs.css);
 @import url(../blocks/places/__paragraph/places__paragraph.css);
 
+/*Block rate*/
+@import url(../blocks/content/__rate/content__rate.css);
+@import url(../blocks/rate/rate.css);
+@import url(../blocks/rate/__container/rate__container.css);
+@import url(../blocks/rate/__caption/rate__caption.css);
+@import url(../blocks/rate/__title/rate__title.css);
+@import url(../blocks/rate/__table/rate__table.css);
+@import url(../blocks/rate/__table-cell/rate__table-cell.css);
+@import url(../blocks/rate/__table-cell-title/rate__table-cell-title.css);
+@import url(../blocks/rate/__table-cell-paragraph/rate__table-cell-paragraph.css);
+
 /*Block footer*/
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__text-container/footer__text-container.css);

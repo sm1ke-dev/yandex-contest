@@ -1,0 +1,33 @@
+.rate__table {
+  margin: 120px auto 0;
+  display: grid;
+  gap: 16px;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  grid-template-rows: repeat(auto-fit, minmax(121px, 1fr));
+  justify-content: center;
+}
+
+@media screen and (max-width: 1152px) {
+  .rate__table {
+    gap: 0.88vw;
+    grid-template-columns: repeat(auto-fit, minmax(20.51vw, 1fr));
+    grid-template-rows: repeat(auto-fit, minmax(11.43vw, 1fr));
+
+  }
+}
+
+@media screen and (max-width: 896px) {
+  .rate__table {
+    gap: 2.08vw;
+
+  }
+}
+
+@media screen and (max-width: 584px) {
+  .rate__table {
+    gap: 10vw;
+    grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+    grid-template-rows: repeat(auto-fit, minmax(121px, 1fr));
+    margin-top: 15.63vw;
+  }
+}

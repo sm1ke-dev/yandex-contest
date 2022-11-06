@@ -1,0 +1,23 @@
+.rate__table-cell-cell {
+  max-width: 230px;
+}
+
+@media screen and (max-width: 1152px) {
+  .rate__table-cell {
+    max-width: 20.51vw;
+  }
+}
+
+@media screen and (max-width: 896px) {
+  .rate__table-cell {
+    max-width: 230px;
+
+  }
+}
+
+@media screen and (max-width: 584px) {
+  .rate__table-cell {
+    max-width: 230px;
+
+  }
+}
