@@ -1,3 +1,23 @@
 .content__rate {
   margin: 130px auto 0;
 }
+
+@media screen and (max-width: 1152px) {
+  .content__rate {
+    margin-top: 10.74vw;
+  }
+}
+
+@media screen and (max-width: 896px) {
+  .content__rate {
+    margin-top: 13.02vw;
+
+  }
+}
+
+@media screen and (max-width: 584px) {
+  .content__rate {
+    margin-top: 12.50vw;
+  }
+}
+
