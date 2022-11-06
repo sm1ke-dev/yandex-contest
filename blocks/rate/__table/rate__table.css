@@ -12,14 +12,14 @@
     gap: 0.88vw;
     grid-template-columns: repeat(auto-fit, minmax(20.51vw, 1fr));
     grid-template-rows: repeat(auto-fit, minmax(11.43vw, 1fr));
-
+    margin-top: 10.84vw;
   }
 }
 
 @media screen and (max-width: 896px) {
   .rate__table {
     gap: 2.08vw;
-
+    margin-top: 9.77vw;
   }
 }
 
